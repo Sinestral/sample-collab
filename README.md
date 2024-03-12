@@ -2,7 +2,7 @@
 
 Hello!
 
-I'm a third year bachelor student at Chalmers University. I'm very interested in anything frontend/backend. Throughout the program at university I've also partook in some fullstack projects on my free time.
+I'm a former student from Chalmers University. I'm very interested in anything frontend/backend. While studying I've also partook in some fullstack projects for various clubs/student bodies at Chalmers.
 
 Social media: [LinkedIn](https://www.linkedin.com/in/felix-holmstr%C3%B6m-273421140)
 
